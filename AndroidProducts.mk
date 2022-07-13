@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pissarro.mk
+    $(LOCAL_DIR)/cherish_pissarro.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pissarro-user \
-    lineage_pissarro-userdebug \
-    lineage_pissarro-eng
+    cherish_pissarro-user \
+    cherish_pissarro-userdebug \
+    cherish_pissarro-eng
